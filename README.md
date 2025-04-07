@@ -54,9 +54,8 @@ Bakery-Website/
 ├── package-lock.json       # Dependency lock file
 └── server.js               # Server-side script
 ```
-## Contact
-For inquiries, please reach out to:
+## Contact Information
+For any questions or feedback, please reach out to:
 
-Email: frasiahnyambura22@gmail.com
-
-GitHub: karanja22
+- **Email**: your-email@example.com  
+- **GitHub**: [karanja22](https://github.com/karanja22)
