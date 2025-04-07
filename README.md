@@ -43,6 +43,7 @@ node server.js
 3. Explore the various sections, including product listings and contact information.
 
 ## File Structure
+```basic
 Bakery-Website/
 ├── css/                    # Contains stylesheets
 ├── images/                 # Contains image assets
@@ -52,9 +53,9 @@ Bakery-Website/
 ├── package.json            # Node.js project configuration 
 ├── package-lock.json       # Dependency lock file
 └── server.js               # Server-side script
-
+```
 ## Contact
 For inquiries, please reach out to:
 
 Email: frasiahnyambura22@gmail.com
-GitHub: karanja22
+GitHub: [karanja22]
