@@ -58,4 +58,5 @@ Bakery-Website/
 For inquiries, please reach out to:
 
 Email: frasiahnyambura22@gmail.com
-GitHub: [karanja22]
+
+GitHub: karanja22
