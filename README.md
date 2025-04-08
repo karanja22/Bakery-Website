@@ -4,16 +4,19 @@
 The Bakery Website is a web application designed for Pastry Palace Bakery. It serves as an online platform to showcase bakery products, provide information about the bakery, and enhance customer engagement.
 
 ## Features
-- **Responsive Design**: The website is fully responsive, ensuring a seamless experience on desktop and mobile devices.
-- **Product Showcase**: Displays various bakery items with images and descriptions.
-- **User-Friendly Navigation**: Easy navigation menu for users to explore different sections of the website.
-- **Contact Information**: Provides essential contact details for customer inquiries.
+- **Showcases Bakery Products**: Displays a variety of bakery items with images and descriptions for easy browsing.
+- **Order Booking**: Allows users to place orders directly through the website.
+- **Database Storage**: Orders are stored in a MySQL database for efficient management and retrieval.
+- **Responsive Design**: Fully responsive layout ensures a seamless experience on both desktop and mobile devices.
+- **User-Friendly Navigation**: Intuitive navigation menu for easy exploration of different sections.
+- **Contact Information**: Provides essential contact details for customer inquiries and support.
 
 ## Technologies Used
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic content.
-- **Node.js (Optional)**: If the project includes server-side functionalities.
+- **Node.js**: For server-side functionality and handling order processing.
+- **MySQL**: For database management to store and retrieve order information.
 
 ## Installation
 To set up the Bakery Website locally, follow these steps:
